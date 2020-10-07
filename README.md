@@ -1,6 +1,23 @@
 ### Hi there 👋
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=buefy&show_icons=true)](https://github.com/tadaspetra)
+My name is Kevin Avignon, and I am a functional software developer based in Montreal, Canada.
+
+I have worked with F# for about 2-3 years now! Using F# is one of the most enjoyable experiences I've had with coding. And the simplicity amazes me. Usually when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. 
+
+When I don't work with F#, I mainly work with C# which I have used fro over about 7 years now. I dabbled in different things in .NET such as 
+- Object-oriented & functional programming
+- Maintaining desktop apps with WPF
+- Developping web applications with ASP.NET Core
+- Exploring frontend development with React, F# & Javascript
+- Supporting DevOps infrastructure with PowerShell
+
+Currently, I am focused on furthering my functional programming skills by doing the following:
+- Creating an education environment for newcomers to learn about F# in an interactive environment with .NET Interactive.
+- Building my React knowledge from the ground up with the course bundle 'Epic React Pro'.
+- Implementing fantasy game as a text-adventure with React & F#.
+- Leading a web application at work where the backend is done through F#.
+
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=buefy&show_icons=true)](https://github.com/kavignon)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&layout=compact)](https://github.com/tadaspetra/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&layout=compact)](https://github.com/kavignon/)
