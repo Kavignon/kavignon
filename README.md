@@ -4,7 +4,7 @@ My name is Kevin Avignon, and I am a functional software developer based in Mont
 
 I have worked with F# for about 2-3 years now! Using F# is one of the most enjoyable experiences I've had with coding. And the simplicity amazes me. Usually when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. 
 
-When I don't work with F#, I mainly work with C# which I have used for over about 7 years now. I dabbl in different things in .NET such as 
+When I don't work with F#, I mainly work with C# which I have used for about 7 years now. I dabble in different things in .NET such as 
 - Developing automatic code analysis and fixing through metaprogramming with the Roslyn compiler
 - Maintaining WPF desktop apps with C# & XAML
 - Developping ASP.NET Core web applications with C# & F#
