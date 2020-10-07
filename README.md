@@ -17,7 +17,7 @@ Currently, I am focused on furthering my functional programming skills by doing 
 - Implementing fantasy game as a text-adventure with React & F#.
 - Leading a web application at work where the backend is done through F#.
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=buefy&show_icons=true)](https://github.com/kavignon)
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/kavignon)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&layout=compact)](https://github.com/kavignon/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&hide=elixir,glsl,css&layout=compact)](https://github.com/kavignon/)
