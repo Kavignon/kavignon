@@ -16,7 +16,14 @@ You can find a list below of what I'm currently focused on:
 - Implementing a fantasy game as a text-adventure with React & F#.
 - Leading a web application at work where the backend is done through F#.
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=highcontrast&show_icons=true&include_all_commits=true)](https://github.com/kavignon)
+  <a href="http://twitter.com/kavignon">
+    <img src="https://img.shields.io/twitter/follow/kavignon?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/kavignon?tab=followers">
+    <img src="https://img.shields.io/github/followers/kavignon?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/kavignon)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&hide=elixir,glsl,css&layout=compact&langs_count=2)](https://github.com/kavignon/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&hide=elixir,glsl,css&layout=compact&theme=dark&langs_count=2)](https://github.com/kavignon/)
