@@ -13,9 +13,9 @@ You can find a list below of what I'm currently focused on:
 
 - Creating an [educational environment for newcomers to learn about F#](https://github.com/Kavignon/School-of-FP-on-.NET).
 - [Building my React knowledge from the ground up](https://github.com/Kavignon/epic-react-with-fsharp) with the course bundle [Epic React Pro](https://epicreact.dev/).
-- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program
-- Co-author of a [suite of Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers)
-- Leading a web application at work where the backend is done through F#.
+- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program.
+- Co-author of a [suite of Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers).
+- I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
     <img src="https://img.shields.io/twitter/follow/kavignon?label=Twitter&logo=twitter&style=for-the-badge" />
