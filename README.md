@@ -11,9 +11,10 @@ When I don't work with F#, I work with C# which I have used for about 7 years no
 
 You can find a list below of what I'm currently focused on:
 
-- Creating an educational environment for newcomers to learn about F#. The environment will be interactive and implemented with .NET Interactive.
+- Creating an [educational environment for newcomers to learn about F#](https://github.com/Kavignon/School-of-FP-on-.NET).
 - Building my React knowledge from the ground up with the course bundle 'Epic React Pro'.
-- Implementing a fantasy game as a text-adventure with React & F#.
+- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program
+- Co-author of a [suite of Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers)
 - Leading a web application at work where the backend is done through F#.
 
   <a href="http://twitter.com/kavignon">
