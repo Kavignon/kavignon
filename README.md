@@ -11,7 +11,7 @@ You can find a list below of what I'm currently focused on:
 - Building my React knowledge from the ground up with the course bundle [Epic React Pro](https://epicreact.dev/).
 - Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program. Now moving from a CLI tool to a web application.
 - Learning about the Git internals and Ruby through the book [Building Git](https://shop.jcoglan.com/building-git/)
-- Exploring Ruby on Rails and React through a mocked implementation of Twitter
+- Exploring Ruby on Rails and React through a [mocked implementation of Twitter](https://github.com/Kavignon/Hermes).
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
