@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-My name is Kevin Avignon, and I am a functional software developer based in Montreal, Canada. I have worked with F# for about 2-3 years now! Using F# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. 
+My name is Kevin Avignon, and I am a software developer based in Montreal, Canada. I have worked with F# for about 3 years now! Using F# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. 
 
 When I don't work with F#, I work with C# which I have used for about 7 years now. I dabble in different things in .NET such as 
-- Developing automatic code analysis and fixing through metaprogramming & the Roslyn compiler.
-- Maintaining WPF desktop apps with C# & XAML.
+- Developing a suite of [Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers).
 - Developing ASP.NET Core web applications with C# & F#.
 - Exploring frontend development with React, F# & Javascript.
-- Supporting DevOps infrastructure with PowerShell.
 
 You can find a list below of what I'm currently focused on:
-
-- Creating an [educational environment for newcomers to learn about F#](https://github.com/Kavignon/School-of-FP-on-.NET).
-- [Building my React knowledge from the ground up](https://github.com/Kavignon/epic-react-with-fsharp) with the course bundle [Epic React Pro](https://epicreact.dev/).
-- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program.
-- Co-author of a [suite of Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers).
+- Building my React knowledge from the ground up with the course bundle [Epic React Pro](https://epicreact.dev/).
+- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program. Now moving from a CLI tool to a web application.
+- Learning about the Git internals and Ruby through the book [Building Git](https://shop.jcoglan.com/building-git/)
+- Exploring Ruby on Rails and React through a mocked implementation of Twitter
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
