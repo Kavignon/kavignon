@@ -8,10 +8,8 @@ When I don't work with F#, I work with C# which I have used for about 7 years no
 - Exploring frontend development with React, F# & Javascript.
 
 You can find a list below of what I'm currently focused on:
-- Building my React knowledge from the ground up with the course bundle [Epic React Pro](https://epicreact.dev/).
-- Implementing an [automatic interests and schedule planner and match maker](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner) for the F# Software Foundation Mentorship education program. Now moving from a CLI tool to a web application.
-- Learning about the Git internals and Ruby through the book [Building Git](https://shop.jcoglan.com/building-git/)
-- Exploring Ruby on Rails and React through a [mocked implementation of Twitter](https://github.com/Kavignon/Hermes).
+- Implementing a [distributed system](https://github.com/Kavignon/FSSF-Mentorship-Planner) in charge of organizing and automating the [F# mentorship program](https://fsharp.org/mentorship/) provided by [F# Software Foundation](https://foundation.fsharp.org/).
+- Implementing a [2D Tactical MMORPG](https://github.com/Soul-Tactics) inspired by games such as Dofus or Final Fantasy Tactics through Typescript, React, WebGL, Unity3D, C# and Rust.
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
