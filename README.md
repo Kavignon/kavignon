@@ -22,7 +22,7 @@ You can find a list below of what I'm currently focused on:
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kavignon&count_private=true&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/kavignon)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&hide=elixir,glsl,css&layout=compact&theme=dark&langs_count=2)](https://github.com/kavignon/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavignon&hide=elixir,glsl,css&layout=compact&theme=dark&langs_count=5)](https://github.com/kavignon/)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavignon&theme=prussian" alt="kavignon" />
 <img alig src="https://github-profile-trophy.vercel.app/?username=kavignon&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
