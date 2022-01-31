@@ -5,11 +5,12 @@ My name is Kevin Avignon, and I am a software developer based in Montreal, Canad
 When I don't work with F#, I work with C# which I have used for about 7 years now. I dabble in different things in .NET such as 
 - Developing a suite of [Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers).
 - Developing ASP.NET Core web applications with C# & F#.
-- Exploring frontend development with React, F# & Javascript.
+- Exploring frontend development with React & Typescript.
 
 You can find a list below of what I'm currently focused on:
-- Implementing a [distributed system](https://github.com/Kavignon/FSSF-Mentorship-Planner) in charge of organizing and automating the [F# mentorship program](https://fsharp.org/mentorship/) provided by [F# Software Foundation](https://foundation.fsharp.org/).
-- Implementing a [2D Tactical MMORPG](https://github.com/Soul-Tactics) inspired by games such as Dofus or Final Fantasy Tactics through Typescript, React, WebGL, Unity3D, C# and Rust.
+- Following along the book 'Building Git' from James Coglan with Python.
+- Going through 'Epic React' from Kent C Dodds.
+- Handling both backend (ASP.NET/F#) and frontend (React/TS) at work
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
