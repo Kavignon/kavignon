@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Kevin Avignon, and I am a software developer based in Montreal, Canada. I have worked with F# for about 3 years now! Using F# is one of the most enjoyable experiences I've had with software development. Its simplicity amazes me. Usually, when I get bugs, through the use of the language, the strictness of the type system and the compiler, it doesn't take too much time to figure out the culprit. 
+My name is Kevin Avignon, and I am a software developer based in Montreal, Canada. I currently sit as one of the board members of the F# Software Foundation (FSSF).
 
-When I don't work with F#, I work with C# which I have used for about 7 years now. I dabble in different things in .NET such as 
+I've worked with .NET, both educationally and professionally, since 2013. I dabble in different things such as 
 - Developing a suite of [Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers).
 - Developing ASP.NET Core web applications with C# & F#.
 - Exploring frontend development with React & Typescript.
