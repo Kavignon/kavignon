@@ -8,8 +8,8 @@ When I don't work with F#, I work with C# which I have used for about 7 years no
 - Exploring frontend development with React & Typescript.
 
 You can find a list below of what I'm currently focused on:
-- Following along the book 'Building Git' from James Coglan with Python.
-- Going through 'Epic React' from Kent C Dodds.
+- Following along the book 'Building Git' from James Coglan with [Python](https://github.com/Kavignon/Gallifrey).
+- Going through [Epic React](https://epicreact.dev/) from Kent C Dodds.
 - Handling both backend (ASP.NET/F#) and frontend (React/TS) at work
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
