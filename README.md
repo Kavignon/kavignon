@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-My name is Kevin Avignon, and I am a software developer based in Montreal, Canada. I currently sit as one of the board members of the F# Software Foundation (FSSF).
-
-I've worked with .NET, both educationally and professionally, since 2013. I dabble in different things such as 
-- Developing a suite of [Roslyn analyzers meant to analyze and advise on your use of collections and LINQ APIs](https://github.com/hypertherm/DotNet.SystemCollections.Analyzers).
-- Developing ASP.NET Core web applications with C# & F#.
-- Exploring frontend development with React & Typescript.
+My name is Kevin Avignon, and I am a senior software developer based in Montreal, Canada. 
+I used to be a board member for the [F# Software Foundation (FSSF)](https://fsharp.org/mentorship/). I led for 2 years the educative efforts for our international mentorship program and over that time, I had community members engaged with me as we built a [platform to do match making between applicants (mentors/mentees)](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner).
 
 You can find a list below of what I'm currently focused on:
-- Following along the book 'Building Git' from James Coglan with [Python](https://github.com/Kavignon/Gallifrey).
-- Going through [Epic React](https://epicreact.dev/) from Kent C Dodds.
-- Handling both backend (ASP.NET/F#) and frontend (React/TS) at work
+- Exploring Elixir/Phoenix/LiveView as I'm writing the online book [Beware of Dragons in the dungeons](https://github.com/Beware-of-dragons/MUD_book)
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
