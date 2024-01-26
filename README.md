@@ -4,7 +4,7 @@ My name is Kevin Avignon, and I am a senior software developer based in Montreal
 I used to be a board member for the [F# Software Foundation (FSSF)](https://fsharp.org/mentorship/). I led for 2 years the educative efforts for our international mentorship program and over that time, I had community members engaged with me as we built a [platform to do match making between applicants (mentors/mentees)](https://github.com/Kavignon/FSharp-Mentorship-Automatic-Planner).
 
 You can find a list below of what I'm currently focused on:
-- Exploring Elixir/Phoenix/LiveView as I'm writing the online book [Beware of Dragons in the dungeons](https://github.com/Beware-of-dragons/MUD_book)
+- Exploring BEAM, Rails & Elm as I'm writing the online book [Beware of Dragons](https://github.com/Beware-of-dragons/MUD_book)
 - I write posts on [my technical blog](https://kevinavignon.com/) from time to time.
 
   <a href="http://twitter.com/kavignon">
