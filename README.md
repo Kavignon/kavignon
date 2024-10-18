@@ -23,7 +23,7 @@ Here are a few examples of me practicing and sharpening my problem-solving skill
 
 ### My main toolbox 🧰
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img src="https://user-images.githubusercontent.com/26239574/114872010-e3277a00-9dc7-11eb-9ba2-06858c1689ac.png" height="72px"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer" title="F#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6740474/377902921-fbd8c080-8d09-492c-8091-275308db180e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241018T142130Z&X-Amz-Expires=300&X-Amz-Signature=31d1f34d845167787c0f1232733abaccaf6021c0fc01852960bbcdff72e56977&X-Amz-SignedHeaders=host" height="72px"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="noreferrer" title="F#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" height="72px"/></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" title="Ruby"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png" height="72px"/></a>
 <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" title="Elixir"><img src="https://user-images.githubusercontent.com/58341133/145675185-44dd0b77-2e99-484f-998f-78eb50ee6082.png" height="72px"/></a>
 
