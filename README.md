@@ -47,6 +47,9 @@ Here are a few examples of me practicing and sharpening my problem-solving skill
             <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" title="Elixir">
                 <img src="https://user-images.githubusercontent.com/58341133/145675185-44dd0b77-2e99-484f-998f-78eb50ee6082.png" height="100px"/>
             </a>
+            <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="Typescript">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="100px"/>
+            </a>
         </div>
     </div>
     <div style="flex-basis: 100%;">
@@ -64,16 +67,13 @@ Here are a few examples of me practicing and sharpening my problem-solving skill
         </div>
     </div>
     <div style="flex-basis: 100%;">
-        <p>Frontend languages and libraries</p>
+        <p>Frontend libraries & tooling </p>
         <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
             <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" title="HTML">
                 <img src="https://user-images.githubusercontent.com/26239574/114872237-1ec24400-9dc8-11eb-97dd-533f0b857094.png" height="100px"/>
             </a>
             <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer" title="CSS">
                 <img src="https://user-images.githubusercontent.com/26239574/114872267-25e95200-9dc8-11eb-8dbf-f7911201de71.png" height="100px"/>
-            </a>
-            <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="Typescript">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="100px"/>
             </a>
              <a href="https://react.dev" target="_blank" rel="noreferrer" title="React">
                 <img src="https://www.goodworklabs.com/wp-content/uploads/2016/10/reactjs.png" height="100px"/>
